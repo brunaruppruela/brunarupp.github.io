@@ -20,13 +20,28 @@ h2{
 
 h3{
     font-family: 'Hindi', sans-serif;
-    color: #51c4d3;
+    color: #dbf6e9;
 }
 
 a{
     font-family: 'Hindi', sans-serif;
     color: #eaffd0;
 }
+
+.p{
+    color:#80b1dc;
+    font-size: large;
+    width: 50%;
+    margin: 40px auto 40px auto;
+    text-align: center;
+    line-height: 2;
+    right: 30px;
+}
+
+p{
+    color:#80b1dc;
+}
+
 
 
 .top-cloud{
