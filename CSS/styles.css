@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Hind', sans-serif;  
+}
+
+h1{
+    font-size: 5.625rem;
+    margin: 1px auto 0 auto ;
+    font-family: 'Dawning of a New Day', cursive;
+    color: #eaffd0;
+}
+
+h2{
+    font-family: 'Hindi', sans-serif;
+    color: #eaffd0;
+    font-weight: normal; 
+}
+
+h3{
+    font-family: 'Hindi', sans-serif;
+    color: #11999E;
+}
+
+a{
+    font-family: 'Hindi', sans-serif;
+    color: #00587a;
+}
+
+
+.top-cloud{
+    position: relative;
+    left: 300px;
+    top: 60px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    
+}
+
+.topcontainer{
+    background-color: #80b1dc;
+    padding-top: 1px;
+}
+
+.middle-container{
+    background-color: #f4f9f9;
+}
+
+.bottom-container{
+    background-color: #3282b8;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    right: 30px;
+}
+
+.img-pessoas{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+
+.img-data-science{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.img-ukulele{
+    width: 23%;
+    float: left;
+    margin-right: 30px;
+}
+
+.img-canoa{
+    width: 23%;
+    float: right;
+    margin-left: 30px;
+}
