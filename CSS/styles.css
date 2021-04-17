@@ -4,6 +4,14 @@ body{
     font-family: 'Hind', sans-serif;  
 }
 
+hr {
+    border-color:rgb(209, 206, 206);
+    border-style: none ;
+    border-top-style: dotted ;
+    width: 5%;
+    border-width: 8px; 
+}
+
 
 h1{
     font-size: 5.625rem;
@@ -14,7 +22,7 @@ h1{
 
 h2{
     font-family: 'Hindi', sans-serif;
-    color: #eaffd0;
+    color: #0061a8;
     font-weight: normal; 
 }
 
@@ -38,10 +46,31 @@ a{
     right: 30px;
 }
 
+.textohello{
+    color:#0061a8;
+    font-size: large;
+    width: 50%;
+    margin: 40px auto 40px auto;
+    text-align: center;
+    line-height: 2;
+    right: 30px;
+}
+
 p{
     color:#80b1dc;
 }
 
+.textosfotos{
+    color: #0061a8;
+}
+
+.titulosfotos{
+    color:#008891;
+}
+
+.referencias{
+    color: #16a596;
+}
 
 
 .top-cloud{
@@ -61,12 +90,12 @@ p{
 }
 
 .middle-container{
-    background-color: #e4fbff;
+    background-color: #EAF6F6;
 }
 
 
 .bottom-container{
-    background-color: #3282b8;
+    background-color: #80b1dc;
 }
 
 .skill-row{
